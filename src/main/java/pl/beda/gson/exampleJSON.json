@@ -1,0 +1,36 @@
+[
+  {
+    "hairColor": "Blond",
+    "height": 190,
+    "width": 0,
+    "isMale": true,
+    "age": 24,
+    "cloths": [
+      {
+        "color": "green",
+        "isNew": true
+      },
+      {
+        "color": "Red",
+        "isNew": false
+      }
+    ]
+  },
+  {
+    "hairColor": "Black",
+    "height": 195,
+    "width": 0,
+    "isMale": false,
+    "age": 22,
+    "cloths": [
+      {
+        "color": "green",
+        "isNew": true
+      },
+      {
+        "color": "Red",
+        "isNew": false
+      }
+    ]
+  }
+]
